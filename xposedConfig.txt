@@ -1,0 +1,26 @@
+{
+	"xposedInstaller": [{
+		"version": "2.7",
+		"name":"xposedInstaller2.7", "ref":"/cnhua5/toolsBox/blob/master/XposedInstaller/de.robv.android.xposed.installer_v33_36570c.apk"
+	},
+	{
+		"version": "3.0",
+		"name": "xposedInstaller3.0", "ref":"/cnhua5/toolsBox/blob/master/XposedInstaller/XposedInstaller_3.0_alpha4.apk"
+	}],
+	"xposedSDK":[
+		{"version":"21", "platform":"arm", "name":"xposedSDK_arm_21", "ref":"/cnhua5/toolsBox/blob/master/xposed21/xposed-v78-sdk21-arm.zip?raw=true"},
+		{"version":"21", "platform":"x86", "name":"xposedSDK_x86_21", "ref":"/cnhua5/toolsBox/blob/master/xposed21/xposed-v78-sdk21-x86.zip?raw=true"},
+		{"version":"21", "platform":"arm64", "name":"xposedSDK_arm64_21", "ref":"/cnhua5/toolsBox/blob/master/xposed21/xposed-v78-sdk21-arm64.zip?raw=true"}
+		{"version":"22", "platform":"arm", "name":"xposedSDK_arm_22", "ref":"/cnhua5/toolsBox/blob/master/xposed22/xposed-v78-sdk22-arm.zip?raw=true"},
+		{"version":"22", "platform":"x86", "name":"xposedSDK_x86_22", "ref":"/cnhua5/toolsBox/blob/master/xposed22/xposed-v78-sdk22-x86.zip?raw=true"},
+		{"version":"22", "platform":"arm64", "name":"xposedSDK_arm64_22", "ref":"/cnhua5/toolsBox/blob/master/xposed22/xposed-v78-sdk22-arm64.zip?raw=true"}
+		{"version":"23", "platform":"arm", "name":"xposedSDK_arm_23", "ref":"/cnhua5/toolsBox/blob/master/xposed22/xposed-v78-sdk22-arm.zip?raw=true"},
+		{"version":"23", "platform":"x86", "name":"xposedSDK_x86_23", "ref":"/cnhua5/toolsBox/blob/master/xposed22/xposed-v78-sdk22-x86.zip?raw=true"},
+		{"version":"23", "platform":"arm64", "name":"xposedSDK_arm64_23", "ref":"/cnhua5/toolsBox/blob/master/xposed22/xposed-v78-sdk22-arm64.zip?raw=true"}
+	],
+	"xposedUninstaller":[
+		{"platform":"arm", "name":"xposedUninstaller_arm","ref":"/cnhua5/toolsBox/blob/master/XposedUninstaller/xposed-uninstaller-20150831-arm.zip"},
+		{"platform":"x86", "name":"xposedUninstaller_x86","ref":"/cnhua5/toolsBox/blob/master/XposedUninstaller/xposed-uninstaller-20150831-x86.zip"},
+		{"platform":"arm64", "name":"xposedUninstaller_arm64","ref":"/cnhua5/toolsBox/blob/master/XposedUninstaller/xposed-uninstaller-20150831-arm64.zip"}
+	]
+}
