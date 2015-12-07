@@ -1,11 +1,11 @@
 {
 	"xposedInstaller": [{
 		"version": "2.7",
-		"name":"xposedInstaller2.7", "ref":"/cnhua5/toolsBox/blob/master/XposedInstaller/de.robv.android.xposed.installer_v33_36570c.apk"
+		"name":"xposedInstaller2.7", "ref":"/cnhua5/toolsBox/blob/master/XposedInstaller/de.robv.android.xposed.installer_v33_36570c.apk?raw=true"
 	},
 	{
 		"version": "3.0",
-		"name": "xposedInstaller3.0", "ref":"/cnhua5/toolsBox/blob/master/XposedInstaller/XposedInstaller_3.0_alpha4.apk"
+		"name": "xposedInstaller3.0", "ref":"/cnhua5/toolsBox/blob/master/XposedInstaller/XposedInstaller_3.0_alpha4.apk?raw=true"
 	}],
 	"xposedSDK":[
 		{"version":"21", "platform":"arm", "name":"xposedSDK_arm_21", "ref":"/cnhua5/toolsBox/blob/master/xposed21/xposed-v78-sdk21-arm.zip?raw=true"},
