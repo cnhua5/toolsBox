@@ -1,0 +1,14 @@
+{
+	"xposedUninstaller": {
+		"ref": "/cnhua5/toolsBox/blob/master/XposedUninstaller/xposed-uninstaller-20150831-arm.zip",
+		"name": "xposedUninstaller_arm"
+	},
+	"xposedSDK": {
+		"ref": "/cnhua5/toolsBox/blob/master/xposed21/xposed-v78-sdk21-arm.zip?raw=true",
+		"name": "xposedSDK_arm_21"
+	},
+	"xposedInstaller": {
+		"ref": "/cnhua5/toolsBox/blob/master/XposedInstaller/de.robv.android.xposed.installer_v33_36570c.apk?raw=true",
+		"name": "xposedInstaller3.0"
+	}
+}
